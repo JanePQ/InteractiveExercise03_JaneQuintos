@@ -34,4 +34,4 @@ const CourseSchema = new Schema({
         ref: 'User'
     }
 });
-mongoose.model('Article', ArticleSchema);
+mongoose.model('Course', CourseSchema);
