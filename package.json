@@ -1,11 +1,11 @@
 {
-  "name": "interactiveexercise03_janequintos",
+  "name": "janequintos_comp308lab2",
   "version": "0.0.0",
-  "description": "Express react Example",
+  "description": "Assignment03",
   "main": "server.js",
   "author": {
     "name": "jane quintos",
-    "email": ""
+    "email": "jquinto3@my.centennial.ca"
   },
   "dependencies": {
     "bcrypt": "^4.0.0",
